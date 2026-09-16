@@ -1,0 +1,5 @@
+payment_method,Transactions,Total_Revenue,Average_Order_Value,Revenue_Percentage
+Credit Card,100486,274152396,2728.26,40.24
+PayPal,74837,204026613,2726.28,29.94
+Cash,49894,135705551,2719.88,19.92
+Crypto,24783,67458123,2721.95,9.9
